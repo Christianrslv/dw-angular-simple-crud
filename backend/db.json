@@ -2,26 +2,26 @@
   "products": [
     {
       "id": 1,
-      "name": "Telephone",
+      "name": "Product 1",
       "price": 2500.5
     },
     {
       "id": 2,
-      "name": "Notebook Mac Pro",
+      "name": "Product 2",
       "price": 12000.89
     },
     {
       "id": 2,
-      "name": "Sansung S20",
+      "name": "Product 3",
       "price": 5000.89
     },
     {
-      "name": "Veio do Formulario",
+      "name": "Example 4",
       "price": "156",
       "id": 3
     },
     {
-      "name": "Alison",
+      "name": "Christian",
       "price": "123",
       "id": 4
     },
@@ -31,7 +31,7 @@
       "id": 5
     },
     {
-      "name": "Guilherme",
+      "name": "Other",
       "price": "123",
       "id": 6
     }
