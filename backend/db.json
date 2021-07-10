@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Telephone",
+      "price": 2500.5
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 2,
+      "name": "Sansung S20",
+      "price": 5000.89
+    },
+    {
+      "name": "Veio do Formulario",
+      "price": "156",
+      "id": 3
+    },
+    {
+      "name": "Alison",
+      "price": "123",
+      "id": 4
+    },
+    {
+      "name": "123 Testando",
+      "price": "123.45",
+      "id": 5
+    },
+    {
+      "name": "Guilherme",
+      "price": "123",
+      "id": 6
+    }
+  ]
+}
