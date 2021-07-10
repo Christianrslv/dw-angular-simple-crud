@@ -1,4 +1,4 @@
-.sidenav {
+/*.sidenav {
   width: 170px;
   background-color: #138ef3;
 }
@@ -13,6 +13,59 @@
 
 .content {
   padding: 16px;
+  background-color: #fff;
+}*/
+
+.example-container {
+  height: 81%;
+}
+
+.example-sidenav-content {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  border: none;
+  top: 45%;
+  background-color: transparent;
+}
+
+.example-sidenav-content :hover{
+  font-size: 2rem;
+  position: fixed;
+  padding: 5px;
+  transition: 4ms;
+  top: 45%;
+}
+
+.example-sidenav-content button{
+  position: fixed;
+  display: flex;
+  align-items: center;
+  border: none;
+  background-color: transparent;
+  top: 45%;
+}
+
+button .material-icons {
+  font-size: 1.6rem;
+  padding: none;
+}
+
+.example-sidenav {
+  width: 170px;
+  background-color: #138ef3;
+}
+
+.example-sidenav a {
+  color: #fff;
+}
+
+.example-sidenav i {
+  padding-right: 10px;
+}
+
+.content {
+  padding: 0px;
   background-color: #fff;
 }
 

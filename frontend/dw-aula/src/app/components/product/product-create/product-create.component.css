@@ -8,3 +8,13 @@ button {
   margin-top: 20px;
   margin-right: 20px;
 }
+
+.card {
+  margin-top: 30px;
+  width: 75%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
