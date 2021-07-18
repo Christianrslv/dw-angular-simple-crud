@@ -20,7 +20,7 @@ export class ProductRead2Component implements OnInit {
   dataSource: ProductRead2DataSource;
   products: Product[];
   /** Columns displayed in the table. Columns IDs can be added, removed, or reordered. */
-  displayedColumns = ['name', 'price'];
+  displayedColumns = ['name', 'price', 'action'];
 
   constructor(private productService: ProductService) { }
 
