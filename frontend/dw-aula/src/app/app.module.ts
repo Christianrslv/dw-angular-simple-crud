@@ -60,6 +60,7 @@ import {CdkStepperModule} from '@angular/cdk/stepper';
 import {CdkTableModule} from '@angular/cdk/table';
 import {CdkTreeModule} from '@angular/cdk/tree';
 import {OverlayModule} from '@angular/cdk/overlay';
+import { ProductRead2Component } from './components/product/product-read2/product-read2.component';
 @NgModule({
   exports: [
     MatSidenavModule,
@@ -118,7 +119,8 @@ import {OverlayModule} from '@angular/cdk/overlay';
     GrayDirective,
     ForDirective,
     ProductCreateComponent,
-    ProductReadComponent
+    ProductReadComponent,
+    ProductRead2Component
   ],
   imports: [
     BrowserModule,
@@ -133,7 +135,10 @@ import {OverlayModule} from '@angular/cdk/overlay';
     HttpClientModule,
     FormsModule,
     MatFormFieldModule,
-    MatInputModule
+    MatInputModule,
+    MatTableModule,
+    MatPaginatorModule,
+    MatSortModule
   ],
   providers: [],
   bootstrap: [AppComponent]

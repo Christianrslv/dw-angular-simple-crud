@@ -34,6 +34,11 @@
       "name": "Other",
       "price": "123",
       "id": 6
+    },
+    {
+      "name": "arthur",
+      "price": "123",
+      "id": 7
     }
   ]
 }
