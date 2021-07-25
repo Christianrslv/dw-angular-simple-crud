@@ -61,6 +61,8 @@ import {CdkTableModule} from '@angular/cdk/table';
 import {CdkTreeModule} from '@angular/cdk/tree';
 import {OverlayModule} from '@angular/cdk/overlay';
 import { ProductRead2Component } from './components/product/product-read2/product-read2.component';
+import { ProductUpdateComponent } from './components/product/product-update/product-update.component';
+
 @NgModule({
   exports: [
     MatSidenavModule,
@@ -120,7 +122,8 @@ import { ProductRead2Component } from './components/product/product-read2/produc
     ForDirective,
     ProductCreateComponent,
     ProductReadComponent,
-    ProductRead2Component
+    ProductRead2Component,
+    ProductUpdateComponent
   ],
   imports: [
     BrowserModule,

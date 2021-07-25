@@ -1,29 +1,19 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Product 1",
-      "price": 2500.5
-    },
-    {
-      "id": 2,
-      "name": "Product 2",
-      "price": 12000.89
-    },
-    {
-      "id": 2,
-      "name": "Product 3",
-      "price": 5000.89
-    },
-    {
-      "name": "Teste Product",
-      "price": "312.50",
-      "id": 3
-    },
-    {
       "name": "MacBook ",
-      "price": "23000.50",
+      "price": "23000.60",
       "id": 4
+    },
+    {
+      "name": "Notebook Sansung",
+      "price": "10000.50",
+      "id": 5
+    },
+    {
+      "name": "Smartphone Sansung S20 pro evolution",
+      "price": "24500.70",
+      "id": 6
     }
   ]
 }
